@@ -2,7 +2,7 @@
 # SessionStart hook for Claude Code cloud sessions.
 # Installs whatever dependencies the repo declares so linters and tests work.
 # Each step only runs when its manifest exists, so the hook stays a no-op
-# until the SKY-WIPED programs start pulling in packages.
+# until the SKYSWIPED programs start pulling in packages.
 set -euo pipefail
 
 if [ "${CLAUDE_CODE_REMOTE:-}" != "true" ]; then
