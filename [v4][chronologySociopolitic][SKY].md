@@ -2,9 +2,21 @@
 
 *CHRONOLOGY- SOCIOPOLITIC*
 
-4 Oct, 2026 · @IOD::PAS-0264-72-CBRS-UU:Dragonfly
+2026-10-4·IOD:
 
-*Non-Diegetic notes. Worlds-timeline of blocs politique, interplanetary settlements, communications/languages, planetary environments, and permitted wealth-codes.*
+\[PAS-0264-72-CBRS-UU:Dragonfly\]
+
+🂠 Non-Diegetic Notes: 
+
+🂠 Timeline Of Blocs Politique 
+
+🂠 Inter-Zea Settlements
+
+🂠 Communications/Languages
+
+🂠 Planetary Environments
+
+🂠 Permitted Wealth-Codes
 
 **Key:** *italic* = translation · **Cat.** = danger category (see Danger Categories) · **\#/1** = hazard / constructed
 
