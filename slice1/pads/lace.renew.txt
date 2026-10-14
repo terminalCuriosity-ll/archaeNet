@@ -1,0 +1,65 @@
+░▒▓ RECOVERED READOUT ▓▒░  source: terminalOS session cache (partial)
+░▒▓ carrier: ēther, faint ▓▒░  timestamps re-derived, order uncertain
+
+  Civilian Labor Station 2-71  "Ecopoint Lesser Prithvi"   CAT 3/1
+  dialect: warp        prompt: LCE-        locale: Nuv Spãl (your choice ✓)
+
+LCE- shift.open
+  > IOD:: ▓▓▓-0611-38-NTCZ-UA:Wren        [class field withheld by owner]
+  > WEALTH-CODE: permitted
+  > good morning, Wren. 4 lace permissions are due.
+  > renew now to keep working with your own body ✓
+  > streak: 2,190 shifts renewed in a row ✦ you're doing great
+
+LCE- lace.list
+  [1] mãnotl     (left, right)        renew ▸ before 06:00
+  [2] ojotl      (left, right)        renew ▸ before 06:00
+  [3] bocatl                          renew ▸ speech window 06:00-18:00
+  [4] sweñotl                         renew ▸ optional ✦ premium
+
+LCE- lace.renew --all
+  > [1] mãnotl ..................... ACCEPT ▸    ACCEPT LATER ▸
+        ACCEPT ✓
+  > [2] ojotl ...................... ACCEPT ▸    ACCEPT LATER ▸
+        ACCEPT ✓
+  > [3] bocatl ..................... ACCEPT ▸    ACCEPT LATER ▸
+        ACCEPT ✓
+  > [4] sweñotl (premium) .......... ACCEPT ▸    ACCEPT LATER ▸
+        ACCEPT ✓
+  > memo (optional): worth it. last cycle i dreamed about the Hub.
+  > thank you, Wren! premium dreams are deducted at end of cycle.
+
+  ~ ~ ~ ēther bleed ~ ~ ~
+  arx> echo "who wrote -tl on your hands before you could spell"
+  arx> echo "say it without. once. see who comes."
+  arx> echo "// hyve"
+  ~ ~ ~ bleed closed ~ ~ ~
+
+LCE- [notice] noise was detected in your session.
+     noise is not speech. you do not have to answer noise ✓
+
+LCE- record.statement
+  > for your safety, describe your hands for the record:
+  > _ mãno
+
+  > unowned noun detected.
+  > did you mean:  mãnotl ▸    mãnotl ▸    mãnotl ▸
+  > _ mãno
+
+  > a hand without an owner is an accusation.
+  > who are you accusing, Wren?
+  > _
+
+  > no answer recorded. silence is consent ✓
+  > your statement has been 1Media'd to your floor supervisor.
+  > [1] mãnotl ..................... status: UNDER REVIEW
+  > your hands are paused. please keep them still.
+
+LCE- shift.open
+  > shift cannot open while hands are paused.
+  > streak reset ✦ 0 shifts. it's okay! every streak starts somewhere.
+
+LCE- _
+LCE- _
+LCE- shift.close   [closed by owner]
+░▒▓ end of recovered cache ▓▒░

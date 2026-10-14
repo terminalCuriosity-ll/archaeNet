@@ -1,0 +1,19 @@
+░▒▓ RECOVERED RECORD ▓▒░  stratum: SURFACE   integrity 41%
+░▒▓ no UI skin found. showing raw fields ▓▒░
+
+case.raw  WC-271-0611
+  subject ............ ▓▓▓-0611-38-NTCZ-UA:Wren
+  station ............ 2-71 / CAT 3/1
+  opened_by .......... none (records open themselves)
+  trigger ............ statement.unowned_noun  x2  ("mãno")
+  trigger ............ session.noise  x1  (ēther bleed, weft origin)
+  weight ............. 0.62  -> REVIEW
+  attention .......... {viewers} external viewer(s) on session
+                       viewer: {iod}  (burner)
+  attention_weight ... {attention_weight}  ("watched sessions are serious sessions")
+  weight_final ....... {weight_final}
+  floor_input ........ vouch {vouch} · noise {noise}
+  outcome ............ {outcome}
+  appeal ............. statement must use owned nouns only
+  appeal_status ...... none filed
+  note ............... subject has not described her hands.

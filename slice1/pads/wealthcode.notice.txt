@@ -1,0 +1,43 @@
+░▒▓ RECOVERED PAD ▓▒░  stratum: SURFACE   frozen: yes   integrity 74%
+░▒▓ wall: Civilian Labor Station 2-71 "Ecopoint Lesser Prithvi" ▓▒░
+
+  ┌──────────────────────────────────────────────────────────┐
+  │  WEALTH-CODE REVISION  //  NO ACTION REQUIRED ✓          │
+  └──────────────────────────────────────────────────────────┘
+
+  to:        ▓▓▓-0611-38-NTCZ-UA:Wren
+  ref:       WC-271-0611
+  previous:  WEALTH-CODE: permitted
+  current:   WEALTH-CODE: permitted (paused)
+
+  Hi Wren! Your hands are under review, so your shifts
+  could not open. Shifts that do not open are not worked.
+  Shifts that are not worked are not permitted.
+
+  Nothing has been taken from you. Your wealth-code is
+  exactly the same, with one small word added for clarity.
+
+  WHILE PAUSED YOU MAY STILL:
+    ✓ keep your bunk (rent accrues at the paused rate)
+    ✓ renew optional laces (premium dreams remain available)
+    ✓ describe your hands for the record, at any time
+
+  WHILE PAUSED YOU MAY NOT:
+    ·  open shifts
+    ·  speak outside the speech window
+    ·  use unowned nouns in a statement
+
+  ─────────────────────────────────────────────────────────
+  STATION COMMUNITY  //  help Wren's review go faster ✦
+  Your floor has 3 seconds to share what you heard.
+
+    [ VOUCH ▸ ]        [ REPORT NOISE ▸ +1 shift streak ]
+
+    vouch ........... 0      noise reported ........ 11
+  ─────────────────────────────────────────────────────────
+
+  A review is not an accusation. Accusations are made
+  by people. Reviews are made by records.
+
+  Thank you for keeping 2-71 permitted ✓
+  case ref WC-271-0611 · keep for your records
